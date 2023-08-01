@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 * {
 	background-color: #f5f5f5;
+	margin:20px;
 }
 p {
-	height: 50px;
 	background-color: white;
+	text-align: right;
 }
-span {
-	text-align: bottom;
+div{
 	background: white;
 }
